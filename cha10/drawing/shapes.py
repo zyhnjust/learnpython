@@ -1,0 +1,3 @@
+import drawing
+
+colors.printcolor()

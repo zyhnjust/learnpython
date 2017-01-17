@@ -1,0 +1,4 @@
+2017-01-16 17:19:04,821 - netmap - INFO - info message
+2017-01-16 17:19:04,821 - netmap - WARNING - warn message
+2017-01-16 17:19:04,822 - netmap - ERROR - error message
+2017-01-16 17:19:04,822 - netmap - CRITICAL - critical message
